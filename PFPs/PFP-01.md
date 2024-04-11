@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 1 | PFP Purpose and Guidelines  | Describes PFP processes for the Polygon Community Treasury | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/)  | Continuous | Informational | 2024-04-11
+| 1 | PFP Purpose and Guidelines  | Describes PFP processes for the Polygon Community Treasury | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-1-polygon-funding-proposal-framework/13759)  | Continuous | Informational | 2024-04-11
 ---
 
 # PFP-1: Polygon Funding Proposal Framework
@@ -19,7 +19,7 @@ Polygon Funding Proposals (PFPs), in turn, help govern the Community Treasury op
 
 In a self-sustainable and decentralized ecosystem, a framework is necessary to help gradually direct the value created by the network in a community-centered fashion. By introducing a transparent and versioned repository, the community maintains a historical record of the Community Treasury-related operations.  \
  \
-The main discussion space for all PFPs is the [Polygon Community Forum](https://forum.polygon.technology/). Feedback from the forum will be incorporated into the documented PFPs housed in the Github repository.
+The main discussion space for all PFPs is the [Polygon Community Forum](https://forum.polygon.technology/c/pfp/89). Feedback from the forum will be incorporated into the documented PFPs housed in the Github repository.
 
 
 ## Specification
@@ -36,7 +36,7 @@ Two PFP types are distinguished:
 * Informational: Proposals introducing or improving new or existing processes in the functioning of the Community Treasury. 
 * Treasury Board: Proposals aimed at introducing changes to the Community Treasury Board membership. 
 
-For a more detailed description of the roles, responsibilities, and templates, see PFP-2 and PFP-3. In the initial phase of the PFP framework, only Treasury Board proposals will be merged into the repository. As the Community Treasury evolves, other types of PFPs may be proposed, e.g., funding proposals.
+For a more detailed description of the roles, responsibilities, and templates, see [PFP-2](https://github.com/0xPolygon/Polygon-Funding-Proposals/blob/main/PFPs/PFP-02.md) and [PFP-3](https://github.com/0xPolygon/Polygon-Funding-Proposals/blob/main/PFPs/PFP-03.md). In the initial phase of the PFP framework, only Treasury Board proposals will be merged into the repository. As the Community Treasury evolves, other types of PFPs may be proposed, e.g., funding proposals.
 
 
 ### PFP Flow
