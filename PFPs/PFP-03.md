@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 3 | Initial Set of CTB members | Proposes the initial set of Community Treasury Board members | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/)  | Proposed | Community Treasury Board | 2024-04-11
+| 3 | Initial Set of CTB members | Proposes the initial set of Community Treasury Board members | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-3-initial-set-of-ctb-members/13761) | Proposed | Community Treasury Board | 2024-04-11
 ---
 
 # PFP-3: Initial Set of CTB Members
@@ -13,7 +13,7 @@ This PFP proposes five members to the inaugural Community Treasury Board.
 
 ## Rationale
 
-To bootstrap the initial phase of the Community Treasury, a governing body in the form of a Community Treasury Board (See [PFP-02](#)) is necessary to administer the operations, strategy, and transparency of the funding mechanism.
+To bootstrap the initial phase of the Community Treasury, a governing body in the form of a Community Treasury Board (See [PFP-02](https://github.com/0xPolygon/Polygon-Funding-Proposals/blob/main/PFPs/PFP-02.md)) is necessary to administer the operations, strategy, and transparency of the funding mechanism.
 
 A set of five members with diverse backgrounds and skill sets is consequently proposed. 
 
