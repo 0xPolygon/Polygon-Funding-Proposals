@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 2 | Community Treasury Board  | Describes the Polygon Community Treasury Board | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/)  | Continuous | Informational | 2024-04-11
+| 2 | Community Treasury Board  | Describes the Polygon Community Treasury Board | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-2-community-treasury-board/13760)  | Continuous | Informational | 2024-04-11
 ---
 
 # PFP-2: Community Treasury Board
@@ -68,7 +68,7 @@ Post-cycle, the CTB is responsible for producing a transparency report capturing
 
 In the current phase, the Polygon Village Grants team will assist with Community Treasury operations, aggregating approved applications and the preparation of corresponding on-chain transactions. A set of on-chain mechanisms is proposed to facilitate the flow of funds. 
 
-The address of the current interim SAFE contract, introduced in [PIP-17](#) and to which Community Treasury emissions stream to, is `0x2ff25495d77f380d5F65B95F103181aE8b1cf898`.
+The address of the current interim SAFE contract, introduced in [PIP-17](https://github.com/maticnetwork/Polygon-Improvement-Proposals/blob/main/PIPs/PIP-17.md) and to which Community Treasury emissions stream to, is `0x2ff25495d77f380d5F65B95F103181aE8b1cf898`.
 
 A new governance contract (Governor Bravo) is proposed that will govern the Community Treasury. At the core is a timelock controller, which holds funds and executes transactions. The timelock also allows for upgrades to the governance structure itself.
 
