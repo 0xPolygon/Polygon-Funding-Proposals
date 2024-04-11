@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 1 | PFP Purpose and Guidelines  | Describes PFP processes for the Polygon Community Treasury | Justice Conder, Mateusz Rzeszowski | [Forum](https://forum.polygon.technology/)  | Continuous | Informational | 2024-04-04
+| 1 | PFP Purpose and Guidelines  | Describes PFP processes for the Polygon Community Treasury | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/)  | Continuous | Informational | 2024-04-11
 ---
 
 # PFP-1: Polygon Funding Proposal Framework
@@ -95,7 +95,9 @@ The current PFP editors are comprised of:
 
 
 
-* TBD
+* Mateusz Rzeszowski
+* Justice Conder
+
 
 
 ## Copyright
