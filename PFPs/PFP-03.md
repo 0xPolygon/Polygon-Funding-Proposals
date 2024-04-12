@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 3 | Initial Set of CTB members | Proposes the initial set of Community Treasury Board members | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-3-initial-set-of-ctb-members/13761) | Proposed | Community Treasury Board | 2024-04-11
+| 3 | Initial Set of CTB members | Proposes the initial set of Community Treasury Board members | Mateusz Rzeszowski, Justice Conder, Bojana Tomic, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-3-initial-set-of-ctb-members/13761) | Proposed | Community Treasury Board | 2024-04-11
 ---
 
 # PFP-3: Initial Set of CTB Members
