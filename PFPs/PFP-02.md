@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 2 | Community Treasury Board  | Describes the Polygon Community Treasury Board | Mateusz Rzeszowski, Justice Conder, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-2-community-treasury-board/13760)  | Continuous | Informational | 2024-04-11
+| 2 | Community Treasury Board  | Describes the Polygon Community Treasury Board | Mateusz Rzeszowski, Justice Conder, Bojana Tomic, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-2-community-treasury-board/13760)  | Continuous | Informational | 2024-04-11
 ---
 
 # PFP-2: Community Treasury Board
