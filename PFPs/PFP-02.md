@@ -68,19 +68,17 @@ Post-cycle, the CTB is responsible for producing a transparency report capturing
 
 In the current phase, the Polygon Village Grants team will assist with Community Treasury operations, aggregating approved applications and the preparation of corresponding on-chain transactions. A set of on-chain mechanisms is proposed to facilitate the flow of funds. 
 
-The address of the current interim SAFE contract, introduced in [PIP-17](https://github.com/maticnetwork/Polygon-Improvement-Proposals/blob/main/PIPs/PIP-17.md) and to which Community Treasury emissions stream to, is `0x2ff25495d77f380d5F65B95F103181aE8b1cf898`.
+The address of the current interim SAFE contract, introduced in [PIP-17](https://github.com/maticnetwork/Polygon-Improvement-Proposals/blob/main/PIPs/PIP-17.md) and to which Community Treasury emissions stream to, is `0x2ff25495d77f380d5F65B95F103181aE8b1cf898`.  
+This safe will transition into the role of proposer (Polygon Village Grants team)
 
-A new governance contract (Governor Bravo) is proposed that will govern the Community Treasury. At the core is a timelock controller, which holds funds and executes transactions. The timelock also allows for upgrades to the governance structure itself.
+**A new Aragon DAO with token voting is proposed**.  
+It will govern (and become) the new Commmunity Treasury. POL emissions [will flow to it](https://github.com/0xPolygon/pol-token/pull/58/files#diff-1486931a3b6c0048600bd809bd0f1fa5f2f206eebe34df4716da90653a4f8cda) after their upgrade on June 30th.  
+A non-upgradeable OpenZeppelin ERC20Votes will be used as a voting token. Transfers, Approvals and Delegation disabled and tokens distributed upon creation.  
+- 51 tokens will go to the Polygon Village Grants team (0x2ff2...), so that only they can can create proposals.  
+- 49 tokens will go the new Community Treasury Board multisig.  
+- 100 votes are needed for consensus, so only when both parties votes yes can a proposal pass.
 
-Governor Bravo contracts will be used with voting ERC-721 SBTs held by two SAFE contracts:
-
-* `PROPOSER` ERC-721 SBT held by [address to be added] multisig wallet operated by Polygon Labs
-* `EXECUTOR` ERC-721 SBT held by [address to be added] ⅗ consensus multisig wallet operated by the Community Treasury Board
-
-For any transaction execution, both of the above SBTs will be necessary - `PROPOSER` SBT responsible for putting forward an on-chain transaction, and `EXECUTOR` SBT responsible for voting in favor, consequently executing the transaction (or rejecting in case of an `against` vote).
-
-The above setup ensures that while Polygon Labs may assist the Community Treasury Board with day-to-day administrative and other non-managerial operations, it may not execute any transactions, including the distribution of funds, without the CTB's on-chain approval. 
-
+The above setup ensures that while Polygon may assist the Community Treasury Board with day-to-day administrative and other non-managerial operations, it may not execute any transactions (including the distribution of funds) without the CTB's on-chain approval.
 
 ### Compensation to Initial CTB Members
 
