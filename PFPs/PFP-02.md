@@ -68,17 +68,20 @@ Post-cycle, the CTB is responsible for producing a transparency report capturing
 
 In the current phase, the Polygon Village Grants team will assist with Community Treasury operations, aggregating approved applications and the preparation of corresponding on-chain transactions. A set of on-chain mechanisms is proposed to facilitate the flow of funds. 
 
-The address of the current interim SAFE contract, introduced in [PIP-17](https://github.com/maticnetwork/Polygon-Improvement-Proposals/blob/main/PIPs/PIP-17.md) and to which Community Treasury emissions stream to, is `0x2ff25495d77f380d5F65B95F103181aE8b1cf898`.  
-This safe will transition into the role of proposer (Polygon Village Grants team)
+The address of the current interim SAFE contract, introduced in [PIP-17](https://github.com/maticnetwork/Polygon-Improvement-Proposals/blob/main/PIPs/PIP-17.md) and to which Community Treasury emissions stream to, is `0x2ff25495d77f380d5F65B95F103181aE8b1cf898`.
 
-**A new Aragon DAO with token voting is proposed**.  
-It will govern (and become) the new Commmunity Treasury. POL emissions [will flow to it](https://github.com/0xPolygon/pol-token/pull/58/files#diff-1486931a3b6c0048600bd809bd0f1fa5f2f206eebe34df4716da90653a4f8cda) after their upgrade on June 30th.  
-A non-upgradeable OpenZeppelin ERC20Votes will be used as a voting token. Transfers, Approvals and Delegation disabled and tokens distributed upon creation.  
-- 51 tokens will go to the Polygon Village Grants team (0x2ff2...), so that only they can can create proposals.  
-- 49 tokens will go the new Community Treasury Board multisig.  
-- 100 votes are needed for consensus, so only when both parties votes yes can a proposal pass.
+A new governance contract (Aragon) is proposed that will govern the Community Treasury.
 
-The above setup ensures that while Polygon may assist the Community Treasury Board with day-to-day administrative and other non-managerial operations, it may not execute any transactions (including the distribution of funds) without the CTB's on-chain approval.
+A non-upgradeable OpenZeppelin ERC20Votes will be used as a voting token held by two SAFE contracts. Transfers, Approvals and Delegation will be disabled and tokens will be distributed upon contract deployment. Two roles are furthermore distinguished, Proposer and Executor.
+
+- 50.00000001 tokens will be distributed to the Proposer SAFE (`0x2ff25495d77f380d5F65B95F103181aE8b1cf898`) wallet operated by Polygon Labs,
+- 49.99999999 tokens will be distributed to the Executor ⅗ consensus multisig wallet (`0xb7b02DbC9D054A8BA90b2172B4f8d2D79aC7d3a0`) operated by the Community Treasury Board.  
+
+The Proposer is responsible for proposal creation, with 50 votes being the requirement. 
+
+Once a proposal has been created, both the PROPOSER and EXECUTOR's `yes` votes are necessary to execute a proposal, with 100 votes being the required consensus.
+
+The above setup ensures that while Polygon Labs may assist the Community Treasury Board with day-to-day administrative and other non-managerial operations, it may not execute any transactions, including the distribution of funds, without the CTB's on-chain approval. 
 
 ### Compensation to Initial CTB Members
 
