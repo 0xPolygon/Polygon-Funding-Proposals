@@ -96,8 +96,8 @@ The current PFP editors are comprised of:
 
 
 * [Kaitlin Beegle](https://github.com/kaitlin-beegle)
-* [Harry Rook]((https://github.com/hrook1)
-* Mattie Fairchild
+* [Harry Rook](https://github.com/hrook1)
+* [Mattie Fairchild](https://github.com/ScavieFae)
 * Rohit Chauhan
 
 
