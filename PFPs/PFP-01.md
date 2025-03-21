@@ -95,8 +95,10 @@ The current PFP editors are comprised of:
 
 
 
-* Mateusz Rzeszowski
-* Justice Conder
+* [Kaitlin Beegle](https://github.com/kaitlin-beegle)
+* [Harry Rook]((https://github.com/hrook1)
+* Mattie Fairchild
+* Rohit Chauhan
 
 
 
