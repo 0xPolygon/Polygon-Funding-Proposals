@@ -25,7 +25,7 @@ _Hadron Founders Club_
 
 [https://x.com/chainyoda](https://x.com/chainyoda) 
 
-  * Ajit has decided to step down from the Protocol Council due to changing work obligations and availability.  
+  * Ajit has decided to step down from the Community Treasury Board due to changing work obligations and availability.  
 
 
 ### Proposed New Member
