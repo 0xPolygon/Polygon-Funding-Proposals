@@ -70,6 +70,9 @@ PFPs that fail to gather the necessary consensus are marked as rejected and may 
 
 Outdated proposals may be moved into an archival state but will remain in the repository. 
 
+#### Continuous
+
+A special status for PfPs that are designed to be continually updated and not reach a state of finality. This status is most commonly used for proposals which suggest core governance structures- for example, PFP-02.
 
 ### PFP Body
 
@@ -77,7 +80,7 @@ PFPs should contain the following:
 
 **Title:** The Title of the PFP should be concise and accurately explain the purpose of the PFP.
 
-**Status:** 1 of 5 statuses for the PFP, described in the PFP Flow section.
+**Status:** 1 of 6 statuses for the PFP, described in the PFP Flow section.
 
 **Abstract:** A short (~200 word) summary of the proposal.
 
