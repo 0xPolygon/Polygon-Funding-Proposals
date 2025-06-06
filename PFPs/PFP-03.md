@@ -26,11 +26,9 @@ This document outlines the five (5) members that presently comprise the Board, a
 Current active members include: 
 
 
-#### David Gogel 
+#### David Gogel | [Twitter](https://twitter.com/dgogel)
 
 _dYdX Foundation_
-
-[https://twitter.com/dgogel](https://twitter.com/dgogel) 
 
 David is a key figure in the blockchain and startup space, serving as the VP of Strategy & Operations at the dYdX Foundation since 2021. His crucial role in developing the dYdX Foundation and ecosystem underscores his commitment to decentralization and open access, which aligns with Polygon's vision. With expertise in go-to-market strategies, partnerships, and ecosystem growth, David is poised to drive sustainable innovation within the Polygon community.
 
@@ -39,21 +37,17 @@ Before joining dYdX, he founded a consultancy advising crypto and fintech startu
 David holds an MBA and BSc from the Wharton School, where he's recognized as a thought leader, especially in DAOs and DeFi. His role as a Senior Fellow for the Wharton Blockchain & Digital Asset Project and contributions to the World Economic Forum highlight his deep involvement and expertise in blockchain technology, positioning him as a valuable asset to the Polygon Community Treasury Board.
 
 
-#### Pete Kim
+#### Pete Kim | [Twitter](https://twitter.com/petejkim)
 
 _Creator of Coinbase Wallet_
-
-[https://twitter.com/petejkim](https://twitter.com/petejkim)
 
 Pete Kim, a trailblazer in the crypto and blockchain sector, has significantly impacted the industry through roles at Coinbase, where he led the integration of web3 and DeFi technologies as Head of Engineering, Wallet, and Engineering Lead for USDC. He founded Cipher Browser, the first full-featured mobile web3 wallet, which Coinbase later acquired. Before this, he co-founded Nitrous.IO, a cloud-based development environment, and held positions at tech giants like Apple and Envoy, showcasing his deep software development expertise.
 
 A passionate advocate for crypto democratization, Pete emphasizes user-friendly web3 experiences, low transaction costs, and high throughput. His advisory contributions to the Polygon Foundation and efforts to introduce USDC to Polygon reflect his dedication to enhancing blockchain's usability and adoption.
 
-#### Maggie Love
+#### Maggie Love | [Twitter](https://twitter.com/maggielove_)
 
 _SheFi_
-
-[https://twitter.com/maggielove_](https://twitter.com/maggielove_)
 
 Maggie is the founder of SheFi, which empowers professional women and non-binary folks to master Web3 in 13 weeks. It’s a cohort-based educational program with live instruction, hands-on tech demos, and peer support, all aimed at accelerating careers in Web3 and AI. SheFi also produces large-scale events called SheFi Summit, offers dedicated career support, and provides education to corporate organizations. 
 
@@ -61,11 +55,9 @@ Maggie joined the Web3 space full-time in 2017. Before SheFi, she co-founded W3B
 
 Before falling down the crypto rabbit hole, Maggie led product strategy for IBM Watson in Financial Services. She graduated with honors from Northwestern University. 
 
-#### Roc Zacharias
+#### Roc Zacharias | [Twitter](https://twitter.com/CryptoRocky)
 
 _Quickswap_
-
-[https://twitter.com/CryptoRocky](https://twitter.com/CryptoRocky) 
 
 Roc Zacharias has been deeply rooted in the digital realm since his early internet programming days and has been a steadfast advocate for Polygon and Ethereum. His journey into digital currencies began in 2001 when he traded assets in EverQuest. A pivotal moment came in 2015 when Roc encountered the Bitcoin whitepaper while preparing for medical school, steering his path toward the blockchain industry, convinced of its world-changing potential.
 
@@ -73,10 +65,9 @@ In 2017, he co-founded Lunar Digital Assets (LDA), focusing on incubation and ma
 
 2023 saw Roc initiating 'All Roads Lead to Polygon' Twitter spaces, establishing a vital communication channel for the community. With his history of bringing numerous projects to Polygon through LDA and QuickSwap, Roc now aspires to transition into politics, aiming to spread the principles of decentralization, libertarianism, and self-sovereignty on a broader scale.
 
-#### Mashal Waqar
-_Head of Ecosystem @ Octant
+#### Mashal Waqar | [Twitter](https://x.com/arlery)
 
-[https://x.com/arlery](https://x.com/arlery) 
+_Head of Ecosystem @ Octant
 
 Mashal Waqar is the Head of Marketing at Octant.  She's also the co-author of the [State of Web3 Grants Report](https://docs.google.com/document/d/1CFD6ztSh2ggJSO-U3uEea92UVB1cRbvBlA1tfPxLKi8/edit?tab=t.0) report 2023 and 2024, the Retroactive Grants report, and the WEb3 Grant Program Research and Analysis Report (funded by Arbitrum). 
 
@@ -88,11 +79,9 @@ She previously cofounded a global media company (The Tempest), a revenue -focuse
 
 The following represent Members who are no longer active and who have been removed from the Treasury multisig. 
 
-#### Ajit Tripathi
+#### Ajit Tripathi | [Twitter](https://twitter.com/chainyoda)
 
 _Hadron Founders Club_
-
-[https://twitter.com/chainyoda](https://twitter.com/chainyoda) 
 
 Ajit has over a decade of experience promoting Ethereum and Polygon technologies across various sectors, from infrastructure and DeFi to CeFi and enterprise adoption. He recently initiated the Hadron Collective to connect top founders within the Polygon ecosystem with capital, talent, and supportive communities. 
 
