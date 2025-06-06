@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 2 | Community Treasury Board  | Describes the Polygon Community Treasury Board | Kaitlin Beegle | [Forum](https://forum.polygon.technology/t/pfp-2-community-treasury-board/13760)  | Continuous | Governance | 2025-06-06
+| 2 | Community Treasury Board  | Describes the Polygon Community Treasury Board | Kaitlin Beegle, Mattie Fairchild | [Forum](https://forum.polygon.technology/t/pfp-2-community-treasury-board/13760)  | Continuous | Governance | 2025-06-06
 ---
 
 # PFP-2: Community Treasury Board
