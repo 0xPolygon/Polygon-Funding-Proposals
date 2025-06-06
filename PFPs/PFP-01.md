@@ -134,7 +134,7 @@ Additional guidance is available in the [README](https://github.com/0xPolygon/Po
 
 ## Document History 
 
-As this PFP is continuous, a true history of changes is available in the repo history.  Significant versions include: 
+As this PFP is continuous, a true history of changes is available in the repo.  Significant versions include: 
   * Version 1, published 2024-04-11
 
 ## Copyright
