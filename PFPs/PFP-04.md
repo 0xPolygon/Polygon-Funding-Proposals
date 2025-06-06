@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 4 | Update to CTB Member List | Replacement of Ajit Tripathi with Mashal Waqar | Kaitlin Beegle | [Forum](TBD) | Proposed | Community Treasury Board | 2025-04-03
+| 4 | Update to CTB Member List | Replacement of Ajit Tripathi with Mashal Waqar | Kaitlin Beegle | [Forum](TBD) | Accepted | Community Treasury Board | 2025-04-03
 ---
 
 # PFP-4: Update to CTB Member List
