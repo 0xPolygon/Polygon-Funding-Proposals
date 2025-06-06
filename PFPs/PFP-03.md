@@ -74,7 +74,7 @@ In 2017, he co-founded Lunar Digital Assets (LDA), focusing on incubation and ma
 2023 saw Roc initiating 'All Roads Lead to Polygon' Twitter spaces, establishing a vital communication channel for the community. With his history of bringing numerous projects to Polygon through LDA and QuickSwap, Roc now aspires to transition into politics, aiming to spread the principles of decentralization, libertarianism, and self-sovereignty on a broader scale.
 
 #### Mashal Waqar
-_Head of Ecosystem @ [Octant](https://octant.app/home)_
+_Head of Ecosystem @ Octant
 
 [https://x.com/arlery](https://x.com/arlery) 
 
