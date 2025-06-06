@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 3 | Initial Set of CTB members | Proposes the initial set of Community Treasury Board members | Mateusz Rzeszowski, Justice Conder, Bojana Tomic, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-3-initial-set-of-ctb-members/13761) | Proposed | Community Treasury Board | 2024-04-11
+| 3 | CTB Membership | Current and past members of the Community Treasury Board | Kaitlin Beegle | N/A | Continuous | Governance | 2025-06-06
 ---
 
 # PFP-3: Initial Set of CTB Members
@@ -8,22 +8,22 @@
 
 ## Abstract
 
-This PFP proposes five members to the inaugural Community Treasury Board. 
+This PFP documents current and past members of the Community Treasury Board. 
 
 
 ## Rationale
 
-To bootstrap the initial phase of the Community Treasury, a governing body in the form of a Community Treasury Board (See [PFP-02](https://github.com/0xPolygon/Polygon-Funding-Proposals/blob/main/PFPs/PFP-02.md)) is necessary to administer the operations, strategy, and transparency of the funding mechanism.
+In support of the Polygon Community Treasury, a governing body in the form of a Community Treasury Board (See [PFP-02](https://github.com/0xPolygon/Polygon-Funding-Proposals/blob/main/PFPs/PFP-02.md)) is necessary to administer the operations, strategy, and transparency of the funding mechanism.
 
-A set of five members with diverse backgrounds and skill sets is consequently proposed. 
+This document outlines the five (5) members that presently comprise the Board, as well as a list of prior members. 
 
 
 ## Specification
 
 
-### Proposed CTB Members
+### Current CTB Membership 
 
-Taking the above qualifications into account, a set of five initial members is proposed:
+Current active members include: 
 
 
 #### David Gogel 
@@ -49,7 +49,6 @@ Pete Kim, a trailblazer in the crypto and blockchain sector, has significantly i
 
 A passionate advocate for crypto democratization, Pete emphasizes user-friendly web3 experiences, low transaction costs, and high throughput. His advisory contributions to the Polygon Foundation and efforts to introduce USDC to Polygon reflect his dedication to enhancing blockchain's usability and adoption.
 
-
 #### Maggie Love
 
 _SheFi_
@@ -61,20 +60,6 @@ Maggie is the founder of SheFi, which empowers professional women and non-binary
 Maggie joined the Web3 space full-time in 2017. Before SheFi, she co-founded W3BCLOUD, a joint venture between ConsenSys and Advanced Micro Devices (NASDAQ: AMD), to build a GPU-based cloud computing platform for blockchain and AI workloads. She also was on the founding team of Cellarius, a science fiction universe on the blockchain. While at ConsenSys, she drove ventures, partnerships, and client engagements. 
 
 Before falling down the crypto rabbit hole, Maggie led product strategy for IBM Watson in Financial Services. She graduated with honors from Northwestern University. 
-
-
-### Ajit Tripathi
-
-_Hadron Founders Club_
-
-[https://twitter.com/chainyoda](https://twitter.com/chainyoda) 
-
-Ajit has over a decade of experience promoting Ethereum and Polygon technologies across various sectors, from infrastructure and DeFi to CeFi and enterprise adoption. He recently initiated the Hadron Collective to connect top founders within the Polygon ecosystem with capital, talent, and supportive communities. 
-
-Ajit’s background includes leading Business Development for Aave and partnering with ConsenSys Financial Services, contributing significantly to Ethereum's enterprise adoption. He played a pivotal role in Polygon's strategic development and helped deploy Aave on Polygon, marking a key period of growth for the platform.
-
-His contributions extend to the Aave and Ethereum communities through design grants and thought leadership, blending decentralized infrastructure with traditional finance. Ajit is a recognized speaker, CoinDesk columnist, and podcast host with a vast network in the tech and finance sectors.
-
 
 #### Roc Zacharias
 
@@ -88,6 +73,37 @@ In 2017, he co-founded Lunar Digital Assets (LDA), focusing on incubation and ma
 
 2023 saw Roc initiating 'All Roads Lead to Polygon' Twitter spaces, establishing a vital communication channel for the community. With his history of bringing numerous projects to Polygon through LDA and QuickSwap, Roc now aspires to transition into politics, aiming to spread the principles of decentralization, libertarianism, and self-sovereignty on a broader scale.
 
+#### Mashal Waqar
+_Head of Ecosystem @ [Octant](https://octant.app/home)_
+
+[https://x.com/arlery](https://x.com/arlery) 
+
+Mashal Waqar is the Head of Marketing at Octant.  She's also the co-author of the [State of Web3 Grants Report](https://docs.google.com/document/d/1CFD6ztSh2ggJSO-U3uEea92UVB1cRbvBlA1tfPxLKi8/edit?tab=t.0) report 2023 and 2024, the Retroactive Grants report, and the WEb3 Grant Program Research and Analysis Report (funded by Arbitrum). 
+
+Her governance experience includes work with the Octant Growth Fund, Gitcoin Grants Council, and ThankARB. Her roles include heading partnerships at Bankless Publishing, oeprations at VenturePunk, and research for seedclub, Protein, Gitcoin, and Ethereum Foundation's Summer of Protocols.  To date, she has collectively reviewed 130+ grants across various ecosystems in Web3. 
+
+She previously cofounded a global media company (The Tempest), a revenue -focused accelerator program for early-stage founders, a femtech startup, and a community-building consultancy.  Mashal holds a B.S. in Computing Security with a minor in International Business from Rochester Institute of Technology (RTI).  She's a Forbes Middle East 30 Under 30 and winner of the 19th WIL Economic Forum Young Leader of the Year award. 
+
+### Previous CTB Members
+
+The following represent Members who are no longer active and who have been removed from the Treasury multisig. 
+
+#### Ajit Tripathi
+
+_Hadron Founders Club_
+
+[https://twitter.com/chainyoda](https://twitter.com/chainyoda) 
+
+Ajit has over a decade of experience promoting Ethereum and Polygon technologies across various sectors, from infrastructure and DeFi to CeFi and enterprise adoption. He recently initiated the Hadron Collective to connect top founders within the Polygon ecosystem with capital, talent, and supportive communities. 
+
+Ajit’s background includes leading Business Development for Aave and partnering with ConsenSys Financial Services, contributing significantly to Ethereum's enterprise adoption. He played a pivotal role in Polygon's strategic development and helped deploy Aave on Polygon, marking a key period of growth for the platform.
+
+His contributions extend to the Aave and Ethereum communities through design grants and thought leadership, blending decentralized infrastructure with traditional finance. Ajit is a recognized speaker, CoinDesk columnist, and podcast host with a vast network in the tech and finance sectors.
+
+### CTB Membership Community Discussions 
+As this PFP is continuous, it is updated and changed in accordance with CTB membership updates and changes.  The following are the primary discussion posts where these changes were proposed and discussed: 
+  * [PFP-3: Initial Set of CTB Members](https://forum.polygon.technology/t/pfp-3-initial-set-of-ctb-members/13761)
+  * [Update to CTB Member List](https://forum.polygon.technology/t/update-to-ctb-member-list/20909/2)  
 
 ### Copyright
 
