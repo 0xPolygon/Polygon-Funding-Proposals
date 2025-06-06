@@ -1,6 +1,6 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 1 | PFP Purpose and Guidelines  | Describes PFP processes for the Polygon Community Treasury | Kaitlin Beegle | [Forum](TODO)  | Continuous | Governance | 2025-06-06
+| 1 | PFP Purpose and Guidelines  | Describes PFP processes for the Polygon Community Treasury | Kaitlin Beegle, Mattie Fairchild | [Forum](TODO)  | Continuous | Governance | 2025-06-06
 ---
 
 # PFP-1: Polygon Funding Proposal (PFP) Framework
