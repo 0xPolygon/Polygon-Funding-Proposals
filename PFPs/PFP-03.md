@@ -3,7 +3,7 @@
 | 3 | CTB Membership | Current and past members of the Community Treasury Board | Kaitlin Beegle | N/A | Continuous | Governance | 2025-06-06
 ---
 
-# PFP-3: Initial Set of CTB Members
+# PFP-3: CTB Membership
 
 
 ## Abstract
