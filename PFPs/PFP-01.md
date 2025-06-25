@@ -1,106 +1,141 @@
 | PFP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 1 | PFP Purpose and Guidelines  | Describes PFP processes for the Polygon Community Treasury | Mateusz Rzeszowski, Justice Conder, Bojana Tomic, Mihailo Bjelic | [Forum](https://forum.polygon.technology/t/pfp-1-polygon-funding-proposal-framework/13759)  | Continuous | Informational | 2024-04-11
+| 1 | PFP Purpose and Guidelines  | Describes PFP processes for the Polygon Community Treasury | Kaitlin Beegle, Mattie Fairchild | [Forum](TODO)  | Continuous | Governance | 2025-06-06
 ---
 
-# PFP-1: Polygon Funding Proposal Framework
-
+# PFP-1: Polygon Funding Proposal (PFP) Framework
 
 ## Abstract
 
-The Community Treasury is an in-protocol fund independent from Polygon Labs (and other Polygon entities), governed via a framework that aims to enable community participation. It is designed and introduced to provide ongoing economic support for further development and growth of the Polygon ecosystem. 
+The Community Treasury is an independent, in-protocol fund that is transparently and openly governed.
 
-Funded via a dedicated POL token emission stream, the Treasury provides strong ecosystem support during the period of early adoption, which is critical for the development, growth, and positioning of the Polygon ecosystem.
+Funded via a dedicated POL token emission stream, the Treasury exists to provide direct investment in services, technologies, and initiatives that are critical for the sustainable development of the Polygon ecosystem.
 
-Polygon Funding Proposals (PFPs), in turn, help govern the Community Treasury openly and transparently, describing processes and templates.
-
+Polygon Funding Proposals (PFPs) are public documents that describe the policies, strategies, and mechanisms that govern the Treasury.
 
 ## Rationale
 
-In a self-sustainable and decentralized ecosystem, a framework is necessary to help gradually direct the value created by the network in a community-centered fashion. By introducing a transparent and versioned repository, the community maintains a historical record of the Community Treasury-related operations.  \
- \
-The main discussion space for all PFPs is the [Polygon Community Forum](https://forum.polygon.technology/c/pfp/89). Feedback from the forum will be incorporated into the documented PFPs housed in the Github repository.
+At maturity, the Polygon ecosystem will be self-sustaining and decentralized. The Treasury exists to provide economic support during early-stage network growth to foundational use cases that support this vision.
 
+The Treasury is funded directly by the protocol, as outlined in the [Polygon 2.0 whitepaper](https://polygon.technology/papers/pol-whitepaper) and implemented in [PIP-17](https://github.com/maticnetwork/Polygon-Improvement-Proposals/blob/main/PIPs/PIP-17.md). This ensures that the Treasury is a wholly independent fund with all allocations sent on-chain.
+
+PFPs provide documentation as to the present state of Treasury governance and operations as well as a versioned history of changes.
 
 ## Specification
 
-A PFP is a formal proposal proposing changes to the Community Treasury’s governance processes - anyone can submit a PFP, which is the first step towards building consensus.
-
+A PFP is a formal proposal proposing changes to the Community Treasury’s governance processes \- anyone can submit a PFP, which is the first step towards building consensus.
 
 ### PFP Types
 
-Two PFP types are distinguished:
+Two `PFP Types` are distinguished:
 
+* `Governance`  
+  * Proposals introducing or improving new or existing processes or policies which govern the Community Treasury  
+* `Funding`  
+  * Proposals introducing or amending a strategic request for funds
 
+Please note that `PFP Types` are intended as broad classifications of the distinct kinds of Proposals which may exist.
 
-* Informational: Proposals introducing or improving new or existing processes in the functioning of the Community Treasury. 
-* Treasury Board: Proposals aimed at introducing changes to the Community Treasury Board membership. 
+The creation, acceptance, and implementation of either type of PFP may be subject to additional governance requirements in this or other PFPs.
 
-For a more detailed description of the roles, responsibilities, and templates, see [PFP-2](https://github.com/0xPolygon/Polygon-Funding-Proposals/blob/main/PFPs/PFP-02.md) and [PFP-3](https://github.com/0xPolygon/Polygon-Funding-Proposals/blob/main/PFPs/PFP-03.md). In the initial phase of the PFP framework, only Treasury Board proposals will be merged into the repository. As the Community Treasury evolves, other types of PFPs may be proposed, e.g., funding proposals.
+### PFP Status & Workflow
 
+PFPs are dynamic documents that exist in perpetuity.  The following statuses approximately describe their position in the PFP lifecycle.
 
-### PFP Flow
+#### `Proposed` Status
 
-Polygon Funding Proposals progress through five possible states:
+A `Proposed` PFP is one which has been put forth for community consideration.  It is actively seeking consensus and is therefore likely to be changed and modified, pending community feedback.
 
+To propose a PFP, a PR should be opened against the [PFP repo](https://github.com/0xPolygon/Polygon-Funding-Proposals).  The PFP Author must also ensure that the PFP is posted in the [Community Forum](https://forum.polygon.technology/c/community-treasury/94) for feedback and suggestions. While the Proposal remains in the `Proposed` state, its Author is responsible for properly socializing the proposal and building consensus.  This may include: gathering relevant feedback from key stakeholders; incorporating changes; ensuring consistency between the PFP Forum post and repo, and; responding to community questions, ideas, and suggestions.
 
-#### Proposed
+Once PFP Editors (see: [PFP Editors](https://github.com/0xPolygon/Polygon-Funding-Proposals/edit/main/PFPs/PFP-01.md#pfp-editors)) determine that the PFP draft is complete as-is, and that it represents a relevant and good-faith proposal that is possible to implement, they will merge it into the repo.  At this point in time, the document may still be considered `Proposed` and changes are allowed. By merging, PFP Editors are indicating that the proposal itself is thorough enough to be catalogued in the repo itself; they are not indicating that consensus has been reached.
 
-Initial PFPs should be posted to the Polygon community forum for community discussion and feedback, alongside a Pull Request to the PFP repository. Authors should ensure their proposals align with designated categories and standards laid out in this PFP, as well as other process PFPs like PFP-2 and PFP-3. Authors are responsible for inviting interested parties to the forum discussion and responding to suggestions.
+At this time, PFPs can remain in the `Proposed` state for an indefinite period of time. At a minimum, they should remain `Proposed` for ***at least two (2) weeks*** to ensure that community stakeholders have had enough time to reasonably review, raise issue, or provide feedback.
 
-Should the document require amendments, the PFP editors will work with the author to make any necessary changes. The author is then responsible for amending the document and resubmitting the request. Once all issues are resolved, the Pull Request will be accepted to the PFP Github repository, and the PFP will be assigned a number.
+#### `Accepted` & `Rejected` Statuses
 
+PFPs should remain `Proposed` until they are deemed final and complete.  Once this has occured- and the proposal has been publicly available for at least 2 weeks- it may be ready for a final consensus decision.
 
-#### Review
+Consensus is the process of determining momentum for a final decision to be reached.
 
-Once a PFP has been added to the PFP Github repository, it can be more formally discussed, circulated, and ultimately evaluated by the Community Treasury Board. PFPs in a review state will be announced in the community Discord and other communication channels to maximize awareness. Authors should be available for any public discussions related to their proposals.
+`Accepted` PFPs are those which have achieved consensus to become policy, or else have been deemed final and correct.
 
+`Rejected` PFPs are those which have received significant pushback or opposition, and/or are otherwise unable to become network policy at this point in time.
 
-#### Accepted
+* Occasionally, the conditions under which a PFP was rejected change, and it may be appropriate to re-consider a proposal that was previously rejected.  
+  * In these instances, which are rare, the original PFP must maintain its `Rejected` status and a new PFP must be proposed.  
+  * PFP Editors are able to determine whether or not conditions are appropriate for a previously failed PFP to be re-considered.
 
-A PFP approved using one of the relevant consensus mechanisms will be marked as accepted. 
+A PFP is declared `Accepted` or `Rejected` via a process of *soft consensus, which requires that all relevant community feedback be generally assessed.  In this process, there is always a bias towards accepting a proposal.  Proposals are only rejected in instances where substantive, significant, and unresolved opposition to the proposal is raised.* 
 
+The decision to declare a PFP `Accepted` or `Rejected` falls to PFP Editors via a process of *soft consensus*, which requires that they review all relevant feedback and render a decision.
 
-#### Rejected
+At this time, there is no 'hard consensus' (e.g., on-chain or off-chain voting) method for determining if PFPs are `Accepted` or `Rejected`.  Given the nature of PFPs, there is a bias towards an `Accepted` status, barring any significant and/or critical feedback against the given proposal.
 
-PFPs that fail to gather the necessary consensus are marked as rejected and may be resubmitted with modifications in the future. 
+#### `Active` Status
 
+`Active` refers to proposals which represent current, in-progress network policy.  These are the PFPs which actively define current network priorities, policies, governance obligations, and/or funding strategies.
 
-#### Archived
+Proposals which are `Accepted` but not `Active` should be understood as future policies or strategies that have not yet been implemented or executed upon.
 
-Outdated proposals may be moved into an archival state but will remain in the repository. 
+#### Additional PFP Status Types
 
+`Archived` proposals are those which were formally `Active` but no longer are. This may be because the scope of funding described in the proposal was fully executed, or because the given strategy or governance process has been replaced with a different, distinct proposal.
 
-### PFP Body
+`Deprecated` proposals are those that no longer represent current network policy or strategy, but were not necessarily replaced or updated.  They may represent out-of-date processes, tools, or strategies that are no longer relevant.
 
-PFPs should contain the following:
+`Continuous` proposals are those proposals that fundamentally define a key aspect of Treasury policy or governance and are therefore both changeable AND final.  Whenever a proposal is pushed to a `Continuous` PFP, it follows the same guidelines and requirements as all newly-proposed PFPs. 
+
+### PFP Roles & Resources
+
+#### The Polygon Community Forum
+
+The [Polygon Community Forum](https://forum.polygon.technology/) is the primary place for discussion amongst the Polygon Community.  Ideas, feedback, discussion, or additional documentation about the Treasury- including projects it has or may fund, its governance, and/or its operations- are also located here, tagged under the `Community Treasury` category.
+
+Though all PFPs must have a corresponding post in the Forum, not all Forum posts must become PFPs.  Anyone is able to post questions, comments, or ideas in the Forum.
+
+#### PFP Authors
+
+PFP Authors serve as the primary champion(s) of a given proposal. They are responsible for ensuring the completeness and correctness of a proposal.  If accepted, they are also responsible for leading the implementation and execution of the PFP.
+
+#### PFP Editors
+
+PFP editors are responsible for ensuring that PFP submissions are properly structured and advanced through designated statuses. They are responsible for ensuring that submissions are logically and reasonably structured and will check the PFP for correct language.  All PFPs must be written in professional English.
+
+If the PFP is not ready or acceptable in its current form, Editors will work with Authors to provide updates and review changes.  Once the PFP meets the minimum requirements, PFP Editors will merge the PFP into the repo and give it a number.
+
+PFP Editors are additionally responsible with maintaining the PFP repo, updating documentation, linking out relevant resources, and updating PFP statuses.
+
+PFP Editors are key operators in the Polygon ecosystem who often have extensive knowledge about a relevant area of Polygon operations. As such, they may offer feedback on the content or quality of the PFP, but they may NOT unilaterally block the progression of a PFP with which they may personally disagree and/or oppose.
+
+##### Designated Editors
+
+The current PFP Editors are comprised of:
+
+* [Kaitlin Beegle](https://github.com/kaitlin-beegle)  
+* [Harry Rook](https://github.com/hrook1)  
+* [Mattie Fairchild](https://github.com/ScavieFae)
+
+Currently, PFP Editors are solely responsible for managing their membership via Github repo permissions.
+
+### PFP Header & Template
+
+At a minimum, all PFPs ***must*** contain the following:
 
 **Title:** The Title of the PFP should be concise and accurately explain the purpose of the PFP.
 
-**Status:** 1 of 5 statuses for the PFP, described in the PFP Flow section.
+**Status:** 1 of 7 statuses for the PFP, described above.
 
-**Abstract:** A short (~200 word) summary of the proposal.
+**Abstract:** A short (\~200 word) summary of the proposal.
 
 **Specification:** The specification should provide the reader an in-depth understanding of the proposal.
 
+Additional guidance is available in the [README](https://github.com/0xPolygon/Polygon-Funding-Proposals/blob/main/README.md).
 
-### PFP Editors
+## Document History 
 
-PFP editors are responsible for ensuring that PFP submissions are properly structured and advanced through designated stages. They are also responsible for ensuring that submissions are logically and reasonably structured. Editors should check the PFP for language (spelling, grammar, sentence structure, etc.). If the PFP isn’t ready, the editor will send it back to the author for revision, with specific instructions. Once the PFP has satisfied the above requirements, a PFP editor will upload the proposal to the GitHub repository.
-
-
-#### Designated Editors
-
-The current PFP editors are comprised of:
-
-
-
-* [Kaitlin Beegle](https://github.com/kaitlin-beegle)
-* [Harry Rook](https://github.com/hrook1)
-* [Mattie Fairchild](https://github.com/ScavieFae)
-* Rohit Chauhan
-
-
+As this PFP is continuous, a true history of changes is available in the repo.  Significant versions include: 
+  * Version 1, published 2024-04-11
 
 ## Copyright
 
