@@ -13,7 +13,7 @@ The Community Treasury Board (CTB) Funding Strategy for Q3 and Q4 2025 introduce
 
 This Strategy consolidates and scopes three core Funds:
 
-1. ***Liquidity & Incentives Fund*** to make Polygon PoS the most liquid and composable DeFi environment on Ethereum.  
+1. ***Liquidity & Incentives Fund*** to make Polygon chain the most liquid and composable DeFi environment on Ethereum.  
 2. ***Capital Investments & Infrastructure Fund*** to back aligned teams and protocols with long-term upside, participation, and protocol \-level resilience.  
 3. ***Founder Support Fund*** to accelerate the most promising founders through direct and programmatic capital, GTM, and community leverage.
 
@@ -47,7 +47,7 @@ The CTB’s goal: deliver focused, transparent, founder-aligned capital deployme
 
 ### Fund 1: Liquidity and Incentives
 
-The Liquidity & Incentives Fund (L\&I) is a capital pool designed to make Polygon PoS the most liquid and composable DeFi environment in the Ethereum ecosystem.  The Fund will achieve this by:
+The Liquidity & Incentives Fund (L\&I) is a capital pool designed to make Polygon the most liquid and composable DeFi environment in the Ethereum ecosystem.  The Fund will achieve this by:
 
 1. Deploying POL \-denominated capital to support TVL growth and protocol success across DeFi, payments, and emerging financial verticals such as RWAs  
 2. Utilizing smart, retrievable deployments (e.g., seed liquidity, on-chain incentives) and yield strategies to sustain capital availability over time and minimize the direct sale of POL  
@@ -74,7 +74,7 @@ Quarterly fund reports will include:
 
 #### Program 1.1 \- Incentives for Metrics
 
-The Incentives for Metrics Program deploys POL to protocols on Polygon PoS based on performance, measured through liquidity, usage, and retention milestones. This program does not fund deployments or marketing. It rewards sustained, verifiable impact, with capital released in stages tied to on-chain outcomes.
+The Incentives for Metrics Program deploys POL to protocols on Polygon based on performance, measured through liquidity, usage, and retention milestones. This program does not fund deployments or marketing. It rewards sustained, verifiable impact, with capital released in stages tied to on-chain outcomes.
 
 Protocols propose their own targets, which are approved by the Program Director. Incentives are streamed or vested upon meeting milestones, with no upfront payments unless secured by clawbacks. The goal is to build data on capital efficiency and drive durable growth across high-throughput DeFi protocols.
 
@@ -100,11 +100,11 @@ Target outcomes include:
 * Incentivize real on-chain behavior, measured via TVL, volume, retention, and network usage  
 * Achieve sustained liquidity and engagement  
 * Build comparative data on cost-per-outcome across verticals  
-* Provide direct support to protocols scaling their presence on Polygon PoS
+* Provide direct support to protocols scaling their presence on the Polygon chain
 
 #### Program 1.2 \- Seed Liquidity Deployment Program
 
-The Seed Liquidity Deployment Program allocates funding to early-stage or strategic protocols on Polygon PoS to bootstrap liquidity, increase market confidence, and accelerate usage. POL (or USDC or other token) is deployed directly into on-chain pools or vaults and retrieved after a defined term.
+The Seed Liquidity Deployment Program allocates funding to early-stage or strategic protocols on Polygon chain to bootstrap liquidity, increase market confidence, and accelerate usage. POL (or USDC or other token) is deployed directly into on-chain pools or vaults and retrieved after a defined term.
 
 This program does not provide grants or permanent liquidity. Deployments are milestone-informed and time-bound (60-180 days). The goal is to increase protocol surface area, deepen initial TVL, and catalyze usage without selling POL or issuing emissions.
 
@@ -152,7 +152,7 @@ The Aligned Capital Program deploys POL-denominated capital into token or equity
 
 Example deals may include:
 
-* A real-world asset (RWA) protocol tokenizing short-term treasuries on Polygon PoS, offering token exposure and revenue-sharing rights  
+* A real-world asset (RWA) protocol tokenizing short-term treasuries on Polygon, offering token exposure and revenue-sharing rights  
 * A stablecoin protocol offering 3% token allocation to Polygon in exchange for launch support and liquidity partnership  
 * An early-stage developer platform raising a SAFE \+ token side letter, with milestone-based capital release tied to usage growth  
 * A payments project with strategic integrations across POS, receiving capital in return for ecosystem exclusivity and governance access
@@ -161,7 +161,7 @@ This program excludes:
 
 * General-purpose grants with no upside or network participation  
 * Sponsorships, marketing buys, or events without direct product or protocol involvement  
-* Non-deploying teams without a clear path to Polygon PoS integration or usage  
+* Non-deploying teams without a clear path to Polygon chain integration or usage  
 * Deals where Polygon is expected to lead the round, set terms, or act as sole anchor investor
 
 Only a limited number of high-conviction investments will be made each quarter, with priority given to teams with proven execution, strong technical DNA, and clear ecosystem alignment.
@@ -188,7 +188,7 @@ A monthly internal dashboard will be maintained for CTB and Treasury use, includ
 
 #### Program 2.2 \- Ecosystem Growth Program 
 
-The Ecosystem Growth Program allocates POL-denominated capital to support execution-focused teams that are strategically valuable to Polygon, but do not offer token or equity participation. These deals are designed to increase traction, distribution, and surface area on Polygon PoS.
+The Ecosystem Growth Program allocates POL-denominated capital to support execution-focused teams that are strategically valuable to Polygon, but do not offer token or equity participation. These deals are designed to increase traction, distribution, and surface area on Polygon.
 
 This program does not provide open-ended grants or passive sponsorships. Capital is deployed under milestone-informed, time-bound terms, with clear usage goals and predefined exit conditions. Deployments are reversible and must demonstrate measurable impact.
 
@@ -296,7 +296,7 @@ Quarterly fund reports will include:
 
 #### Program 3.1 \- Support Layer Program
 
-The Support Layer Program deploys POL-denominated capital, services, and contributor infrastructure to accelerate execution across high-leverage founders building on Polygon PoS. The program supports tactical needs across all stages  from audits to GTM to community signal, with an emphasis on speed, modularity, and measurable outcomes.
+The Support Layer Program deploys POL-denominated capital, services, and contributor infrastructure to accelerate execution across high-leverage founders building on Polygon. The program supports tactical needs across all stages  from audits to GTM to community signal, with an emphasis on speed, modularity, and measurable outcomes.
 
 This program does not offer open-ended grants or passive sponsorships. Instead, it funds tightly scoped support across two structured layers:
 
